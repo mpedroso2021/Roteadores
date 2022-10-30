@@ -10,4 +10,4 @@ Segue abaixo as etapas que ocorrem na execução do código.
 
 4º - Imprime em tela a configuração resultante do comando inserido.
 
-5º - Solicita ao usuário que ele digite o nome do arquivo que as configurações que foram ipressas em tela sejam armazenadas.
+5º - Solicita ao usuário que ele digite o nome do arquivo que as configurações que foram impressas em tela sejam armazenadas.
