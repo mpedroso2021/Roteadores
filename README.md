@@ -1,4 +1,4 @@
-Este código conecta o usuário a o roteador da Cisco através do endereço IP e salva as configurações em um arquivo do bloco de notas.
+Este código conecta o usuário ao roteador da Cisco através do endereço IP e salva as configurações em um arquivo de bloco de notas.
 
 Segue abaixo as etapas que ocorrem na execução do código.
 
